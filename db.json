@@ -72,5 +72,93 @@
       "name": "Гидроцикл Spark 3-UP 900 HO Ace IBR Blueberry",
       "image": "/public/cat-12.png"
     }
+  ],
+  "headMenu": [
+    {
+      "id": 1,
+      "name": "Магазины",
+      "link": "/",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Акции",
+      "link": "/",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Доставка и оплата",
+      "link": "/",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "test",
+      "link": "/",
+      "active": false
+    }
+  ],
+  "headerMenu": [
+    {
+      "id": 1,
+      "name": "Квадроциклы",
+      "link": "/",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Катера",
+      "link": "/",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Гидроциклы",
+      "link": "/",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Лодки",
+      "link": "/",
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "Вездеходы",
+      "link": "/",
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "Снегоходы",
+      "link": "/",
+      "active": true
+    },
+    {
+      "id": 7,
+      "name": "Двигатели",
+      "link": "/",
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "Запчасти",
+      "link": "/",
+      "active": true
+    },
+    {
+      "id": 9,
+      "name": "test",
+      "link": "/",
+      "active": false
+    }
+  ],
+  "settings": [
+    {
+      "logo": "/public/logo.svg",
+      "address": "Минск, ул. Кулибина 25"
+    }
   ]
 }
